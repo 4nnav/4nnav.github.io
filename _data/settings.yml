@@ -1,0 +1,31 @@
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+
+google-ID: 'UA-112060364-1'
+
+menu:
+- {name: '&Uuml;ber mich', path: 'menu', url: 'about.html'}
+- {name: 'Impressum', path: 'menu', url: 'impressum.html'}
+- {name: 'Kontakt', path: 'menu', url: 'contact.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+#- {icon: 'github', link: 'https://www.github.com/lenpaul'}
+#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+#- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
+- {icon: 'envelope', link: 'mailto:anna.schmettow@gmail.com'}
+#- {icon: 'rss-square', link: '/feed.xml'}
+# - {icon: 'rss-square', link: '/rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Neuere'
+  previous_page: '&Auml;ltere'
+
+sharing_button_prompt: 'Teilen'
+
+# related_posts: 'Das könnte dich auch interessieren:'
+
+post_date_prefix: 'Verfasst am'
