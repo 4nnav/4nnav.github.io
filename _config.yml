@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           ''
-description:	       ''
+title:		           'Andere Ansichten'
+description:	       'Anna von Schmettow'
 #author:              'Anna von Schmettow'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
