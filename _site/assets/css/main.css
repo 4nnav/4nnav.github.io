@@ -118,6 +118,10 @@ hr {
   color: #999;
 }
 
+.brand-image {
+  height: 100px;
+}
+
 /*
   Thumbnail
 */
