@@ -7,12 +7,28 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Vernissage</title>
+				<title>Reisebericht London</title>
 				
 					<dc:creator>Anna</dc:creator>
 				
 				
-					<description>&lt;h2 id=&quot;vernissage&quot;&gt;Vernissage&lt;/h2&gt;
+					<description>&lt;p&gt;Von strahlendem Sommerwetter verwöhnt sind bei meinem jüngsten Aufenthalt in London einige fotografische Leckerbissen entstanden. 
+Nach dem Besuch eines Morning Service in der &lt;strong&gt;St Paul’s Cathedral&lt;/strong&gt; um 7.30 Uhr in der Frühe, was aufgrund der feierlichen Stimmung, der Abwesenheit von Touristen und dem ehrfurchtseinflössenden Blick weit hoch ins Innere der Kuppel übrigens sehr zu empfehlen sind, entstanden folgende Fotos.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 30 Jul 2018 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/journal/london.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/london.html</guid>
+			</item>
+		
+			<item>
+				<title>Aktuelle Ausstellung</title>
+				
+					<dc:creator>Anna</dc:creator>
+				
+				
+					<description>&lt;h2 id=&quot;rottenburg--umgebung-mal-anders&quot;&gt;Rottenburg &amp;amp; Umgebung mal anders&lt;/h2&gt;
 
 </description>
 				
