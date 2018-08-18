@@ -9,6 +9,10 @@
 <lastmod>2018-07-30T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/journal/vernissage.html</loc>
+<lastmod>2018-08-18T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/menu/about.html</loc>
 </url>
 <url>
@@ -19,5 +23,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/googleee64263e76e8bbb4.html</loc>
+<lastmod>2018-07-31T13:36:45+02:00</lastmod>
 </url>
 </urlset>
